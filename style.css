@@ -6,11 +6,30 @@ body {
 
   text-align: center;
   margin: 0;
+
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  height: 100vh;
 }
 
 #main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
   width: 626px;
   margin: 64px auto 86px;
+}
+
+#main img {
+  width: 350px;
+  height: 238px;
+  background-size: cover;
 }
 
 #main h1 {
@@ -45,8 +64,13 @@ p {
   border-bottom: 1px solid #ECEFF2;
 }
 
+.page img {
+  height: 104px;
+  background-size: cover;
+}
+
 #footer {
-  margin-bottom: 38px;
+  margin-bottom: 40px;
 }
 
 #footer a+a {
