@@ -37,5 +37,7 @@ Josenito Lima Athayde.
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](https://choosealicense.com/licenses/mit/) para obter detalhes.
+Este projeto está licenciado sob a licença MIT 
+
+[![NPM](https://img.shields.io/npm/l/react)](https://choosealicense.com/licenses/mit/) 
 
