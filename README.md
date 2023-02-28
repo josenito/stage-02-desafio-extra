@@ -1,4 +1,4 @@
-# Flutuar - Agencia de Viagens
+# Flutuar - Agência de Viagens
 
 Esse projeto tem como objetivo demonstrar habilidades em HTML e CSS, criando uma página web com um layout agradável e intuitivo.
 
