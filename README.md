@@ -26,14 +26,17 @@ cd stage-02-desafio-extra
 - `style.css` - Folha de estilo principal do projeto.
 - `images/` - Pasta para armazenar as imagens utilizadas no projeto.
 
+&nbsp;
 ## Autor
 
-Josenito Lima Athayde.
-
-[@josenito](https://www.github.com/josenito)
+### Josenito Lima Athayde.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josenito-lima-athayde-277a8ab3/)
 
+[![Ícone do GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/josenito)
+
+
+&nbsp;
 
 ## Licença
 
